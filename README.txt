@@ -9,3 +9,5 @@ ninePuzzleSolver: a solver for a nine piece sliding puzzle
 perceptronAndLR: implementations of perceptron and linear regression algorithms
 
 sudokuSolver: an AI that solves sudokus
+
+sentimentAnalyzer: predicts whether IMDB reviews are positive or negative
